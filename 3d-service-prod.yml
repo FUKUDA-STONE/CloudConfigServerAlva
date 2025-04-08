@@ -26,7 +26,6 @@ spring:
       file-size-threshold: 2MB
   aop:
     auto: true
-
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
